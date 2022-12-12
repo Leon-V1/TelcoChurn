@@ -4,7 +4,7 @@ Viability of Multi Layer Perceptron(MLP) Classifier to predict churn and K-means
 I greedily explore the viability of using a MLP to predict customer churn on the given dataset.
 The final model has an accuracy of 80%.
 
-Note: F1-Score for No is 87% and F1-Score for Yes is 60%. This shows a clear limitation of the MLP prediciting who will in fact churn.
+Note: F1-Score for No is 87% and F1-Score for Yes is 60%. This shows a clear limitation of the MLP predicting who will in fact churn.
 
 I attempt to cluster customers using KMeans and visualize the given clusters using Principal Component Analysis.
 Note: The Kmeans model was not exposed to the 'Churn' column in the dataset.
@@ -19,4 +19,4 @@ Note: The Kmeans model was not exposed to the 'Churn' column in the dataset.
   Hence we forward these cluster properties to relevant people in marketing/business department to target these types of customers to<br />
   reduce churn. i.e Offer promotions and discounts to customers switching from month-to-month to 1-year and 2-year contracts.<br />
   
-Note: The final visualization using pca(3) is an interactive plot inside the notebook.
+Note: The final visualization using pca with 3 components is an interactive plot inside the notebook.
