@@ -12,7 +12,7 @@ Note: The Kmeans model was not exposed to the 'Churn' column in the dataset.
 # Insights
 (1) : Due to inconsistent accuracy, MLP model is not ideal for this dataset. Recommended alternatives: Linear SVC, KNeighbours Classifier, SVC and finally Ensemble Classifiers. <br>
 (2) : The clustering model places most of the churning customers together in one cluster. <br>
-(3) : The profile of the cluster in (2) can be defined with the following properties:<br />
+(3) : The profile of the cluster in (2) can potentially be defined with the following properties:<br />
   (a) No Device Protection<br />
   (b) No TechSupport<br />
   (c) Month-to-Month Contract Type<br />
