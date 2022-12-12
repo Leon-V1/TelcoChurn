@@ -18,3 +18,5 @@ Note: The Kmeans model was not exposed to the 'Churn' column in the dataset.
   (c) Month-to-Month Contract Type<br />
   Hence we forward these cluster properties to relevant people in marketing/business department to target these types of customers to<br />
   reduce churn. i.e Offer promotions and discounts to customers switching from month-to-month to 1-year and 2-year contracts.<br />
+  
+Note: The final visualization using pca(3) is an interactive plot inside the notebook.
