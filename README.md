@@ -16,7 +16,7 @@ Note: The Kmeans model was not exposed to the 'Churn' column in the dataset.
   (a) No Device Protection<br />
   (b) No TechSupport<br />
   (c) Month-to-Month Contract Type<br />
-  Hence we may forward these cluster properties to relevant people in marketing/business department to target these types<br /> 
-  of customers to reduce churn. i.e Offer promotions and discounts to customers switching from month-to-month to 1-year and 2-year contracts.<br />
+  Hence we may forward these cluster properties to relevant people in marketing/business department to target<br /> 
+  these types of customers to reduce churn. i.e Offer promotions and discounts to customers switching from month-to-month to 1-year and 2-year contracts.<br />
   
 Note: The final visualization using pca with 3 components is an interactive plot inside the notebook.
